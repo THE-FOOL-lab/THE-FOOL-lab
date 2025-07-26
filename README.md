@@ -13,10 +13,11 @@
   ![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)  
   ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
   ![Java](https://img.shields.io/badge/Java-Programming-blueviolet?style=for-the-badge&logo=java)  
+  ![Python](https://img.shields.io/badge/Python-Programming-green?style=for-the-badge&logo=python)  
 - 🧠 **Experience**: Completed a Cybersecurity Bootcamp — Real-world threat detection and defense  
 - 💬 **Let’s Collaborate On**: Cybersecurity Projects | CTF Challenges | Open-source Security Tools  
-- 📫 **Reach Me**: foolpurple56@gmail.com 
-- 😄 **Pronouns**: He/ Him 
+- 📫 **Reach Me**: foolpurple56@gmail.com  
+- 😄 **Pronouns**: He/ Him  
 - ⚡ **Fun Fact**: I believe the best defense starts with a creative offense. 🛡️✨
 
 > _"Turning curiosity into firewalls and dreams into secure systems."_
